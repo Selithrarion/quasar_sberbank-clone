@@ -1,0 +1,12 @@
+{
+  "name": "quasar_sberbank-clone",
+  "version": "1.0.0",
+  "description": "Sberbank clone with quasar",
+  "author": "Selithrarion <sergey.maltsev2004@yandex.ru>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.4.7",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

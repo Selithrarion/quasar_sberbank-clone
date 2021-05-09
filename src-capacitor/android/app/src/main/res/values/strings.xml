@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quasar Sberbank</string>
+    <string name="title_activity_main">Quasar Sberbank</string>
+    <string name="package_name">org.capacitor.sberback.clone.app</string>
+    <string name="custom_url_scheme">org.capacitor.sberback.clone.app</string>
+</resources>

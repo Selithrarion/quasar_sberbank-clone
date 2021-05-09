@@ -1,0 +1,10 @@
+{
+  "appId": "org.capacitor.sberback.clone.app",
+  "appName": "Quasar Sberbank",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://26.235.81.154:3000"
+  }
+}
