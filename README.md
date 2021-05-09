@@ -1,6 +1,8 @@
-# Quasar Sberbank (quasar_sberbank-clone)
+# Quasar Sberbank Mobile Clone
 
-Sberbank clone with quasar
+Sberbank mini-clone with Quasar framework and Capacitor  
+  
+![gif](example.gif)
 
 ## Install the dependencies
 ```bash
